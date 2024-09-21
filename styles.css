@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: turquoise;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.styled_link {
+    text-decoration: none;
+    text-transform: uppercase
+}
+
+.styled_link:hover {
+    background-color: turquoise;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
